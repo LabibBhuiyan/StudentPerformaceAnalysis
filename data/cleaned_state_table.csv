@@ -1,0 +1,343 @@
+OrganizationLevel,StudentGroup,GradeLevel,Subject,MedianSGP,StudentCount,NumberLowGrowth,NumberTypicalGrowth,NumberHighGrowth,PercentLowGrowth,PercentTypicalGrowth,PercentHighGrowth
+State,All Students,4th Grade,English Language Arts,50.0,71659.0,23298.0,24358.0,24003.0,32.51%,33.99%,33.50%
+State,All Students,4th Grade,Math,50.0,71512.0,23244.0,24307.0,23961.0,32.50%,33.99%,33.51%
+State,All Students,5th Grade,English Language Arts,50.0,71100.0,23107.0,24165.0,23828.0,32.50%,33.99%,33.51%
+State,All Students,5th Grade,Math,50.0,70974.0,23058.0,24136.0,23780.0,32.49%,34.01%,33.51%
+State,All Students,6th Grade,English Language Arts,50.0,70854.0,23020.0,24088.0,23746.0,32.49%,34.00%,33.51%
+State,All Students,6th Grade,Math,50.0,70633.0,22954.0,24028.0,23651.0,32.50%,34.02%,33.48%
+State,All Students,7th Grade,English Language Arts,50.0,70394.0,22875.0,23929.0,23590.0,32.50%,33.99%,33.51%
+State,All Students,7th Grade,Math,50.0,70036.0,22757.0,23815.0,23464.0,32.49%,34.00%,33.50%
+State,All Students,8th Grade,English Language Arts,50.0,71921.0,23389.0,24453.0,24079.0,32.52%,34.00%,33.48%
+State,All Students,8th Grade,Math,50.0,71387.0,23197.0,24280.0,23910.0,32.49%,34.01%,33.49%
+State,All Students,All Grades,English Language Arts,50.0,355928.0,115689.0,120993.0,119246.0,32.50%,33.99%,33.50%
+State,All Students,All Grades,Math,50.0,354542.0,115210.0,120566.0,118766.0,32.50%,34.01%,33.50%
+State,English Language Learners,4th Grade,English Language Arts,42.0,11575.0,4581.0,4024.0,2970.0,39.58%,34.76%,25.66%
+State,English Language Learners,4th Grade,Math,45.0,11608.0,4361.0,3843.0,3404.0,37.57%,33.11%,29.32%
+State,English Language Learners,5th Grade,English Language Arts,40.0,9345.0,3886.0,3227.0,2232.0,41.58%,34.53%,23.88%
+State,English Language Learners,5th Grade,Math,44.0,9359.0,3503.0,3179.0,2677.0,37.43%,33.97%,28.60%
+State,English Language Learners,6th Grade,English Language Arts,40.0,8268.0,3427.0,2838.0,2003.0,41.45%,34.33%,24.23%
+State,English Language Learners,6th Grade,Math,40.0,8269.0,3510.0,2767.0,1992.0,42.45%,33.46%,24.09%
+State,English Language Learners,7th Grade,English Language Arts,39.0,7414.0,3161.0,2499.0,1754.0,42.64%,33.71%,23.66%
+State,English Language Learners,7th Grade,Math,42.0,7382.0,2947.0,2537.0,1898.0,39.92%,34.37%,25.71%
+State,English Language Learners,8th Grade,English Language Arts,39.0,6799.0,2915.0,2344.0,1540.0,42.87%,34.48%,22.65%
+State,English Language Learners,8th Grade,Math,40.0,6753.0,2834.0,2314.0,1605.0,41.97%,34.27%,23.77%
+State,English Language Learners,All Grades,English Language Arts,40.0,43401.0,17970.0,14932.0,10499.0,41.40%,34.40%,24.19%
+State,English Language Learners,All Grades,Math,42.0,43371.0,17155.0,14640.0,11576.0,39.55%,33.76%,26.69%
+State,Non-English Language Learners,4th Grade,English Language Arts,52.0,60084.0,18717.0,20334.0,21033.0,31.15%,33.84%,35.01%
+State,Non-English Language Learners,4th Grade,Math,51.0,59904.0,18883.0,20464.0,20557.0,31.52%,34.16%,34.32%
+State,Non-English Language Learners,5th Grade,English Language Arts,52.0,61755.0,19221.0,20938.0,21596.0,31.12%,33.90%,34.97%
+State,Non-English Language Learners,5th Grade,Math,51.0,61615.0,19555.0,20957.0,21103.0,31.74%,34.01%,34.25%
+State,Non-English Language Learners,6th Grade,English Language Arts,51.0,62586.0,19593.0,21250.0,21743.0,31.31%,33.95%,34.74%
+State,Non-English Language Learners,6th Grade,Math,51.0,62364.0,19444.0,21261.0,21659.0,31.18%,34.09%,34.73%
+State,Non-English Language Learners,7th Grade,English Language Arts,51.0,62980.0,19714.0,21430.0,21836.0,31.30%,34.03%,34.67%
+State,Non-English Language Learners,7th Grade,Math,51.0,62654.0,19810.0,21278.0,21566.0,31.62%,33.96%,34.42%
+State,Non-English Language Learners,8th Grade,English Language Arts,51.0,65122.0,20474.0,22109.0,22539.0,31.44%,33.95%,34.61%
+State,Non-English Language Learners,8th Grade,Math,51.0,64634.0,20363.0,21966.0,22305.0,31.51%,33.99%,34.51%
+State,Non-English Language Learners,All Grades,English Language Arts,51.0,312527.0,97719.0,106061.0,108747.0,31.27%,33.94%,34.80%
+State,Non-English Language Learners,All Grades,Math,51.0,311171.0,98055.0,105926.0,107190.0,31.51%,34.04%,34.45%
+State,Foster Care,4th Grade,English Language Arts,43.0,286.0,117.0,102.0,67.0,40.91%,35.66%,23.43%
+State,Foster Care,4th Grade,Math,42.0,284.0,121.0,82.0,81.0,42.61%,28.87%,28.52%
+State,Foster Care,5th Grade,English Language Arts,49.5,274.0,101.0,80.0,93.0,36.86%,29.20%,33.94%
+State,Foster Care,5th Grade,Math,39.0,273.0,112.0,87.0,74.0,41.03%,31.87%,27.11%
+State,Foster Care,6th Grade,English Language Arts,38.0,275.0,115.0,92.0,68.0,41.82%,33.45%,24.73%
+State,Foster Care,6th Grade,Math,40.0,271.0,114.0,95.0,62.0,42.07%,35.06%,22.88%
+State,Foster Care,7th Grade,English Language Arts,37.0,229.0,98.0,71.0,60.0,42.79%,31.00%,26.20%
+State,Foster Care,7th Grade,Math,42.0,224.0,85.0,78.0,61.0,37.95%,34.82%,27.23%
+State,Foster Care,8th Grade,English Language Arts,38.0,217.0,90.0,75.0,52.0,41.47%,34.56%,23.96%
+State,Foster Care,8th Grade,Math,39.5,220.0,99.0,61.0,60.0,45.00%,27.73%,27.27%
+State,Foster Care,All Grades,English Language Arts,41.0,1281.0,521.0,420.0,340.0,40.67%,32.79%,26.54%
+State,Foster Care,All Grades,Math,40.0,1272.0,531.0,403.0,338.0,41.75%,31.68%,26.57%
+State,Non-Foster Care,4th Grade,English Language Arts,50.0,71373.0,23181.0,24256.0,23936.0,32.48%,33.98%,33.54%
+State,Non-Foster Care,4th Grade,Math,50.0,71228.0,23123.0,24225.0,23880.0,32.46%,34.01%,33.53%
+State,Non-Foster Care,5th Grade,English Language Arts,50.0,70826.0,23006.0,24085.0,23735.0,32.48%,34.01%,33.51%
+State,Non-Foster Care,5th Grade,Math,50.0,70701.0,22946.0,24049.0,23706.0,32.45%,34.02%,33.53%
+State,Non-Foster Care,6th Grade,English Language Arts,50.0,70579.0,22905.0,23996.0,23678.0,32.45%,34.00%,33.55%
+State,Non-Foster Care,6th Grade,Math,50.0,70362.0,22840.0,23933.0,23589.0,32.46%,34.01%,33.53%
+State,Non-Foster Care,7th Grade,English Language Arts,50.0,70165.0,22777.0,23858.0,23530.0,32.46%,34.00%,33.54%
+State,Non-Foster Care,7th Grade,Math,50.0,69812.0,22672.0,23737.0,23403.0,32.48%,34.00%,33.52%
+State,Non-Foster Care,8th Grade,English Language Arts,50.0,71704.0,23299.0,24378.0,24027.0,32.49%,34.00%,33.51%
+State,Non-Foster Care,8th Grade,Math,50.0,71167.0,23098.0,24219.0,23850.0,32.46%,34.03%,33.51%
+State,Non-Foster Care,All Grades,English Language Arts,50.0,354647.0,115168.0,120573.0,118906.0,32.47%,34.00%,33.53%
+State,Non-Foster Care,All Grades,Math,50.0,353270.0,114679.0,120163.0,118428.0,32.46%,34.01%,33.52%
+State,Female,4th Grade,English Language Arts,50.0,35083.0,11306.0,12029.0,11748.0,32.23%,34.29%,33.49%
+State,Female,4th Grade,Math,48.0,35005.0,11924.0,12121.0,10960.0,34.06%,34.63%,31.31%
+State,Female,5th Grade,English Language Arts,51.0,34743.0,10785.0,11789.0,12169.0,31.04%,33.93%,35.03%
+State,Female,5th Grade,Math,50.0,34685.0,11277.0,11926.0,11482.0,32.51%,34.38%,33.10%
+State,Female,6th Grade,English Language Arts,53.0,34299.0,10178.0,11788.0,12333.0,29.67%,34.37%,35.96%
+State,Female,6th Grade,Math,50.0,34178.0,11050.0,11716.0,11412.0,32.33%,34.28%,33.39%
+State,Female,7th Grade,English Language Arts,51.0,33871.0,10610.0,11623.0,11638.0,31.32%,34.32%,34.36%
+State,Female,7th Grade,Math,48.0,33674.0,11335.0,11559.0,10780.0,33.66%,34.33%,32.01%
+State,Female,8th Grade,English Language Arts,52.0,34371.0,10505.0,11767.0,12099.0,30.56%,34.24%,35.20%
+State,Female,8th Grade,Math,51.0,34120.0,10583.0,11741.0,11796.0,31.02%,34.41%,34.57%
+State,Female,All Grades,English Language Arts,52.0,172367.0,53384.0,58996.0,59987.0,30.97%,34.23%,34.80%
+State,Female,All Grades,Math,49.0,171662.0,56169.0,59063.0,56430.0,32.72%,34.41%,32.87%
+State,Gender X,4th Grade,English Language Arts,58.5,90.0,20.0,30.0,40.0,22.22%,33.33%,44.44%
+State,Gender X,4th Grade,Math,64.0,91.0,25.0,22.0,44.0,27.47%,24.18%,48.35%
+State,Gender X,5th Grade,English Language Arts,41.0,97.0,38.0,29.0,30.0,39.18%,29.90%,30.93%
+State,Gender X,5th Grade,Math,46.5,96.0,33.0,32.0,31.0,34.38%,33.33%,32.29%
+State,Gender X,6th Grade,English Language Arts,51.0,176.0,49.0,70.0,57.0,27.84%,39.77%,32.39%
+State,Gender X,6th Grade,Math,49.0,169.0,59.0,58.0,52.0,34.91%,34.32%,30.77%
+State,Gender X,7th Grade,English Language Arts,51.0,238.0,75.0,80.0,83.0,31.51%,33.61%,34.87%
+State,Gender X,7th Grade,Math,55.0,234.0,74.0,68.0,92.0,31.62%,29.06%,39.32%
+State,Gender X,8th Grade,English Language Arts,54.0,353.0,102.0,113.0,138.0,28.90%,32.01%,39.09%
+State,Gender X,8th Grade,Math,52.0,339.0,110.0,106.0,123.0,32.45%,31.27%,36.28%
+State,Gender X,All Grades,English Language Arts,53.0,954.0,284.0,322.0,348.0,29.77%,33.75%,36.48%
+State,Gender X,All Grades,Math,53.0,929.0,301.0,286.0,342.0,32.40%,30.79%,36.81%
+State,Male,4th Grade,English Language Arts,50.0,36486.0,11972.0,12299.0,12215.0,32.81%,33.71%,33.48%
+State,Male,4th Grade,Math,52.0,36416.0,11295.0,12164.0,12957.0,31.02%,33.40%,35.58%
+State,Male,5th Grade,English Language Arts,49.0,36260.0,12284.0,12347.0,11629.0,33.88%,34.05%,32.07%
+State,Male,5th Grade,Math,50.0,36193.0,11748.0,12178.0,12267.0,32.46%,33.65%,33.89%
+State,Male,6th Grade,English Language Arts,47.0,36379.0,12793.0,12230.0,11356.0,35.17%,33.62%,31.22%
+State,Male,6th Grade,Math,50.0,36286.0,11845.0,12254.0,12187.0,32.64%,33.77%,33.59%
+State,Male,7th Grade,English Language Arts,49.0,36285.0,12190.0,12226.0,11869.0,33.60%,33.69%,32.71%
+State,Male,7th Grade,Math,51.0,36128.0,11348.0,12188.0,12592.0,31.41%,33.74%,34.85%
+State,Male,8th Grade,Math,49.0,36928.0,12504.0,12433.0,11991.0,33.86%,33.67%,32.47%
+State,Male,8th Grade,English Language Arts,48.0,37197.0,12782.0,12573.0,11842.0,34.36%,33.80%,31.84%
+State,Male,All Grades,Math,50.0,181951.0,58740.0,61217.0,61994.0,32.28%,33.64%,34.07%
+State,Male,All Grades,English Language Arts,49.0,182607.0,62021.0,61675.0,58911.0,33.96%,33.77%,32.26%
+State,Highly Capable,4th Grade,Math,64.0,6694.0,1358.0,2199.0,3137.0,20.29%,32.85%,46.86%
+State,Highly Capable,4th Grade,English Language Arts,65.0,6697.0,1285.0,2181.0,3231.0,19.19%,32.57%,48.25%
+State,Highly Capable,5th Grade,Math,62.0,7401.0,1630.0,2439.0,3332.0,22.02%,32.96%,45.02%
+State,Highly Capable,5th Grade,English Language Arts,64.0,7417.0,1479.0,2431.0,3507.0,19.94%,32.78%,47.28%
+State,Highly Capable,6th Grade,Math,64.0,7332.0,1476.0,2371.0,3485.0,20.13%,32.34%,47.53%
+State,Highly Capable,6th Grade,English Language Arts,65.0,7307.0,1381.0,2417.0,3509.0,18.90%,33.08%,48.02%
+State,Highly Capable,7th Grade,Math,63.0,7569.0,1619.0,2480.0,3470.0,21.39%,32.77%,45.84%
+State,Highly Capable,7th Grade,English Language Arts,65.0,7591.0,1509.0,2438.0,3644.0,19.88%,32.12%,48.00%
+State,Highly Capable,8th Grade,Math,62.0,7422.0,1687.0,2422.0,3313.0,22.73%,32.63%,44.64%
+State,Highly Capable,8th Grade,English Language Arts,64.0,7439.0,1541.0,2360.0,3538.0,20.72%,31.72%,47.56%
+State,Highly Capable,All Grades,Math,63.0,36418.0,7770.0,11911.0,16737.0,21.34%,32.71%,45.96%
+State,Highly Capable,All Grades,English Language Arts,65.0,36451.0,7195.0,11827.0,17429.0,19.74%,32.45%,47.81%
+State,Non-Highly Capable,4th Grade,Math,49.0,64818.0,21886.0,22108.0,20824.0,33.77%,34.11%,32.13%
+State,Non-Highly Capable,4th Grade,English Language Arts,48.0,64962.0,22013.0,22177.0,20772.0,33.89%,34.14%,31.98%
+State,Non-Highly Capable,5th Grade,Math,49.0,63573.0,21428.0,21697.0,20448.0,33.71%,34.13%,32.16%
+State,Non-Highly Capable,5th Grade,English Language Arts,48.0,63683.0,21628.0,21734.0,20321.0,33.96%,34.13%,31.91%
+State,Non-Highly Capable,6th Grade,Math,48.0,63301.0,21478.0,21657.0,20166.0,33.93%,34.21%,31.86%
+State,Non-Highly Capable,6th Grade,English Language Arts,48.0,63547.0,21639.0,21671.0,20237.0,34.05%,34.10%,31.85%
+State,Non-Highly Capable,7th Grade,Math,48.0,62467.0,21138.0,21335.0,19994.0,33.84%,34.15%,32.01%
+State,Non-Highly Capable,7th Grade,English Language Arts,48.0,62803.0,21366.0,21491.0,19946.0,34.02%,34.22%,31.76%
+State,Non-Highly Capable,8th Grade,Math,49.0,63965.0,21510.0,21858.0,20597.0,33.63%,34.17%,32.20%
+State,Non-Highly Capable,8th Grade,English Language Arts,48.0,64482.0,21848.0,22093.0,20541.0,33.88%,34.26%,31.86%
+State,Non-Highly Capable,All Grades,Math,49.0,318124.0,107440.0,108655.0,102029.0,33.77%,34.15%,32.07%
+State,Non-Highly Capable,All Grades,English Language Arts,48.0,319477.0,108494.0,109166.0,101817.0,33.96%,34.17%,31.87%
+State,Homeless,4th Grade,Math,42.0,2090.0,847.0,649.0,594.0,40.53%,31.05%,28.42%
+State,Homeless,4th Grade,English Language Arts,41.5,2116.0,856.0,722.0,538.0,40.45%,34.12%,25.43%
+State,Homeless,5th Grade,Math,42.0,2032.0,803.0,645.0,584.0,39.52%,31.74%,28.74%
+State,Homeless,5th Grade,English Language Arts,41.0,2034.0,838.0,685.0,511.0,41.20%,33.68%,25.12%
+State,Homeless,6th Grade,Math,40.0,1900.0,806.0,625.0,469.0,42.42%,32.89%,24.68%
+State,Homeless,6th Grade,English Language Arts,39.0,1930.0,829.0,638.0,463.0,42.95%,33.06%,23.99%
+State,Homeless,7th Grade,Math,41.0,1735.0,698.0,606.0,431.0,40.23%,34.93%,24.84%
+State,Homeless,7th Grade,English Language Arts,38.0,1756.0,774.0,546.0,436.0,44.08%,31.09%,24.83%
+State,Homeless,8th Grade,Math,42.0,1663.0,659.0,555.0,449.0,39.63%,33.37%,27.00%
+State,Homeless,8th Grade,English Language Arts,39.0,1687.0,723.0,556.0,408.0,42.86%,32.96%,24.18%
+State,Homeless,All Grades,Math,41.0,9420.0,3813.0,3080.0,2527.0,40.48%,32.70%,26.83%
+State,Homeless,All Grades,English Language Arts,40.0,9523.0,4020.0,3147.0,2356.0,42.21%,33.05%,24.74%
+State,Non-Homeless,4th Grade,Math,50.0,69422.0,22397.0,23658.0,23367.0,32.26%,34.08%,33.66%
+State,Non-Homeless,4th Grade,English Language Arts,50.0,69543.0,22442.0,23636.0,23465.0,32.27%,33.99%,33.74%
+State,Non-Homeless,5th Grade,Math,50.0,68942.0,22255.0,23491.0,23196.0,32.28%,34.07%,33.65%
+State,Non-Homeless,5th Grade,English Language Arts,50.0,69066.0,22269.0,23480.0,23317.0,32.24%,34.00%,33.76%
+State,Non-Homeless,6th Grade,Math,50.0,68733.0,22148.0,23403.0,23182.0,32.22%,34.05%,33.73%
+State,Non-Homeless,6th Grade,English Language Arts,50.0,68924.0,22191.0,23450.0,23283.0,32.20%,34.02%,33.78%
+State,Non-Homeless,7th Grade,Math,50.0,68301.0,22059.0,23209.0,23033.0,32.30%,33.98%,33.72%
+State,Non-Homeless,7th Grade,English Language Arts,50.0,68638.0,22101.0,23383.0,23154.0,32.20%,34.07%,33.73%
+State,Non-Homeless,8th Grade,Math,50.0,69724.0,22538.0,23725.0,23461.0,32.32%,34.03%,33.65%
+State,Non-Homeless,8th Grade,English Language Arts,50.0,70234.0,22666.0,23897.0,23671.0,32.27%,34.02%,33.70%
+State,Non-Homeless,All Grades,Math,50.0,345122.0,111397.0,117486.0,116239.0,32.28%,34.04%,33.68%
+State,Non-Homeless,All Grades,English Language Arts,50.0,346405.0,111669.0,117846.0,116890.0,32.24%,34.02%,33.74%
+State,Low-Income,4th Grade,Math,46.0,36894.0,13431.0,12493.0,10970.0,36.40%,33.86%,29.73%
+State,Low-Income,4th Grade,English Language Arts,45.0,37043.0,13761.0,12617.0,10665.0,37.15%,34.06%,28.79%
+State,Low-Income,5th Grade,Math,46.0,36204.0,12939.0,12371.0,10894.0,35.74%,34.17%,30.09%
+State,Low-Income,5th Grade,English Language Arts,45.0,36315.0,13413.0,12375.0,10527.0,36.94%,34.08%,28.99%
+State,Low-Income,6th Grade,Math,45.0,36371.0,13442.0,12380.0,10549.0,36.96%,34.04%,29.00%
+State,Low-Income,6th Grade,English Language Arts,45.0,36584.0,13465.0,12447.0,10672.0,36.81%,34.02%,29.17%
+State,Low-Income,7th Grade,Math,46.0,35418.0,12866.0,12065.0,10487.0,36.33%,34.06%,29.61%
+State,Low-Income,7th Grade,English Language Arts,45.0,35674.0,13288.0,12017.0,10369.0,37.25%,33.69%,29.07%
+State,Low-Income,8th Grade,Math,46.0,35037.0,12685.0,11975.0,10377.0,36.20%,34.18%,29.62%
+State,Low-Income,8th Grade,English Language Arts,45.0,35401.0,13088.0,12021.0,10292.0,36.97%,33.96%,29.07%
+State,Low-Income,All Grades,Math,46.0,179924.0,65363.0,61284.0,53277.0,36.33%,34.06%,29.61%
+State,Low-Income,All Grades,English Language Arts,45.0,181017.0,67015.0,61477.0,52525.0,37.02%,33.96%,29.02%
+State,Non-Low Income,4th Grade,Math,55.0,34618.0,9813.0,11814.0,12991.0,28.35%,34.13%,37.53%
+State,Non-Low Income,4th Grade,English Language Arts,55.0,34616.0,9537.0,11741.0,13338.0,27.55%,33.92%,38.53%
+State,Non-Low Income,5th Grade,Math,54.0,34770.0,10119.0,11765.0,12886.0,29.10%,33.84%,37.06%
+State,Non-Low Income,5th Grade,English Language Arts,55.0,34785.0,9694.0,11790.0,13301.0,27.87%,33.89%,38.24%
+State,Non-Low Income,6th Grade,Math,55.0,34262.0,9512.0,11648.0,13102.0,27.76%,34.00%,38.24%
+State,Non-Low Income,6th Grade,English Language Arts,55.0,34270.0,9555.0,11641.0,13074.0,27.88%,33.97%,38.15%
+State,Non-Low Income,7th Grade,Math,54.0,34618.0,9891.0,11750.0,12977.0,28.57%,33.94%,37.49%
+State,Non-Low Income,7th Grade,English Language Arts,55.0,34720.0,9587.0,11912.0,13221.0,27.61%,34.31%,38.08%
+State,Non-Low Income,8th Grade,Math,54.0,36350.0,10512.0,12305.0,13533.0,28.92%,33.85%,37.23%
+State,Non-Low Income,8th Grade,English Language Arts,54.0,36520.0,10301.0,12432.0,13787.0,28.21%,34.04%,37.75%
+State,Non-Low Income,All Grades,Math,54.0,174618.0,49847.0,59282.0,65489.0,28.55%,33.95%,37.50%
+State,Non-Low Income,All Grades,English Language Arts,55.0,174911.0,48674.0,59516.0,66721.0,27.83%,34.03%,38.15%
+State,Migrant,4th Grade,Math,44.0,1442.0,534.0,494.0,414.0,37.03%,34.26%,28.71%
+State,Migrant,4th Grade,English Language Arts,42.0,1441.0,581.0,480.0,380.0,40.32%,33.31%,26.37%
+State,Migrant,5th Grade,Math,43.0,1542.0,582.0,560.0,400.0,37.74%,36.32%,25.94%
+State,Migrant,5th Grade,English Language Arts,40.0,1546.0,626.0,558.0,362.0,40.49%,36.09%,23.42%
+State,Migrant,6th Grade,Math,45.0,1610.0,589.0,570.0,451.0,36.58%,35.40%,28.01%
+State,Migrant,6th Grade,English Language Arts,43.0,1617.0,617.0,569.0,431.0,38.16%,35.19%,26.65%
+State,Migrant,7th Grade,Math,43.0,1704.0,664.0,581.0,459.0,38.97%,34.10%,26.94%
+State,Migrant,7th Grade,English Language Arts,42.0,1704.0,688.0,564.0,452.0,40.38%,33.10%,26.53%
+State,Migrant,8th Grade,Math,44.0,1742.0,658.0,601.0,483.0,37.77%,34.50%,27.73%
+State,Migrant,8th Grade,English Language Arts,42.0,1749.0,683.0,619.0,447.0,39.05%,35.39%,25.56%
+State,Migrant,All Grades,Math,44.0,8040.0,3027.0,2806.0,2207.0,37.65%,34.90%,27.45%
+State,Migrant,All Grades,English Language Arts,42.0,8057.0,3195.0,2790.0,2072.0,39.65%,34.63%,25.72%
+State,Non Migrant,4th Grade,Math,50.0,70070.0,22710.0,23813.0,23547.0,32.41%,33.98%,33.60%
+State,Non Migrant,4th Grade,English Language Arts,50.0,70218.0,22717.0,23878.0,23623.0,32.35%,34.01%,33.64%
+State,Non Migrant,5th Grade,Math,50.0,69432.0,22476.0,23576.0,23380.0,32.37%,33.96%,33.67%
+State,Non Migrant,5th Grade,English Language Arts,50.0,69554.0,22481.0,23607.0,23466.0,32.32%,33.94%,33.74%
+State,Non Migrant,6th Grade,Math,50.0,69023.0,22365.0,23458.0,23200.0,32.40%,33.99%,33.61%
+State,Non Migrant,6th Grade,English Language Arts,50.0,69237.0,22403.0,23519.0,23315.0,32.36%,33.97%,33.67%
+State,Non Migrant,7th Grade,Math,50.0,68332.0,22093.0,23234.0,23005.0,32.33%,34.00%,33.67%
+State,Non Migrant,7th Grade,English Language Arts,50.0,68690.0,22187.0,23365.0,23138.0,32.30%,34.02%,33.68%
+State,Non Migrant,8th Grade,Math,50.0,69645.0,22539.0,23679.0,23427.0,32.36%,34.00%,33.64%
+State,Non Migrant,8th Grade,English Language Arts,50.0,70172.0,22706.0,23834.0,23632.0,32.36%,33.97%,33.68%
+State,Non Migrant,All Grades,Math,50.0,346502.0,112183.0,117760.0,116559.0,32.38%,33.99%,33.64%
+State,Non Migrant,All Grades,English Language Arts,50.0,347871.0,112494.0,118203.0,117174.0,32.34%,33.98%,33.68%
+State,Military Parent,4th Grade,Math,52.0,1951.0,580.0,678.0,693.0,29.73%,34.75%,35.52%
+State,Military Parent,4th Grade,English Language Arts,54.0,1953.0,550.0,684.0,719.0,28.16%,35.02%,36.82%
+State,Military Parent,5th Grade,Math,50.0,1808.0,590.0,611.0,607.0,32.63%,33.79%,33.57%
+State,Military Parent,5th Grade,English Language Arts,52.0,1807.0,543.0,638.0,626.0,30.05%,35.31%,34.64%
+State,Military Parent,6th Grade,Math,48.0,1686.0,583.0,567.0,536.0,34.58%,33.63%,31.79%
+State,Military Parent,6th Grade,English Language Arts,52.0,1690.0,532.0,591.0,567.0,31.48%,34.97%,33.55%
+State,Military Parent,7th Grade,Math,51.0,1598.0,487.0,543.0,568.0,30.48%,33.98%,35.54%
+State,Military Parent,7th Grade,English Language Arts,52.0,1604.0,478.0,551.0,575.0,29.80%,34.35%,35.85%
+State,Military Parent,8th Grade,Math,52.0,1464.0,443.0,504.0,517.0,30.26%,34.43%,35.31%
+State,Military Parent,8th Grade,English Language Arts,54.0,1475.0,418.0,503.0,554.0,28.34%,34.10%,37.56%
+State,Military Parent,All Grades,Math,51.0,8507.0,2683.0,2903.0,2921.0,31.54%,34.12%,34.34%
+State,Military Parent,All Grades,English Language Arts,53.0,8529.0,2521.0,2967.0,3041.0,29.56%,34.79%,35.65%
+State,Non Military Parent,4th Grade,Math,50.0,69561.0,22664.0,23629.0,23268.0,32.58%,33.97%,33.45%
+State,Non Military Parent,4th Grade,English Language Arts,50.0,69706.0,22748.0,23674.0,23284.0,32.63%,33.96%,33.40%
+State,Non Military Parent,5th Grade,Math,50.0,69166.0,22468.0,23525.0,23173.0,32.48%,34.01%,33.50%
+State,Non Military Parent,5th Grade,English Language Arts,50.0,69293.0,22564.0,23527.0,23202.0,32.56%,33.95%,33.48%
+State,Non Military Parent,6th Grade,Math,50.0,68947.0,22371.0,23461.0,23115.0,32.45%,34.03%,33.53%
+State,Non Military Parent,6th Grade,English Language Arts,50.0,69164.0,22488.0,23497.0,23179.0,32.51%,33.97%,33.51%
+State,Non Military Parent,7th Grade,Math,50.0,68438.0,22270.0,23272.0,22896.0,32.54%,34.00%,33.46%
+State,Non Military Parent,7th Grade,English Language Arts,50.0,68790.0,22397.0,23378.0,23015.0,32.56%,33.98%,33.46%
+State,Non Military Parent,8th Grade,Math,50.0,69923.0,22754.0,23776.0,23393.0,32.54%,34.00%,33.46%
+State,Non Military Parent,8th Grade,English Language Arts,50.0,70446.0,22971.0,23950.0,23525.0,32.61%,34.00%,33.39%
+State,Non Military Parent,All Grades,Math,50.0,346035.0,112527.0,117663.0,115845.0,32.52%,34.00%,33.48%
+State,Non Military Parent,All Grades,English Language Arts,50.0,347399.0,113168.0,118026.0,116205.0,32.58%,33.97%,33.45%
+State,American Indian/ Alaskan Native,4th Grade,Math,40.5,888.0,382.0,272.0,234.0,43.02%,30.63%,26.35%
+State,American Indian/ Alaskan Native,4th Grade,English Language Arts,40.0,890.0,372.0,299.0,219.0,41.80%,33.60%,24.61%
+State,American Indian/ Alaskan Native,8th Grade,Math,41.0,829.0,331.0,292.0,206.0,39.93%,35.22%,24.85%
+State,American Indian/ Alaskan Native,8th Grade,English Language Arts,45.0,824.0,314.0,297.0,213.0,38.11%,36.04%,25.85%
+State,American Indian/ Alaskan Native,All Grades,Math,41.0,4188.0,1735.0,1379.0,1074.0,41.43%,32.93%,25.64%
+State,American Indian/ Alaskan Native,All Grades,English Language Arts,42.0,4192.0,1700.0,1425.0,1067.0,40.55%,33.99%,25.45%
+State,Asian,4th Grade,Math,61.0,6524.0,1487.0,2137.0,2900.0,22.79%,32.76%,44.45%
+State,Asian,4th Grade,English Language Arts,59.0,6513.0,1612.0,2195.0,2706.0,24.75%,33.70%,41.55%
+State,Asian,5th Grade,Math,60.0,6418.0,1516.0,2119.0,2783.0,23.62%,33.02%,43.36%
+State,Asian,5th Grade,English Language Arts,59.0,6414.0,1564.0,2152.0,2698.0,24.38%,33.55%,42.06%
+State,Asian,6th Grade,Math,61.0,6236.0,1426.0,2039.0,2771.0,22.87%,32.70%,44.44%
+State,Asian,6th Grade,English Language Arts,60.0,6238.0,1475.0,2090.0,2673.0,23.65%,33.50%,42.85%
+State,Asian,7th Grade,Math,60.0,6208.0,1533.0,2006.0,2669.0,24.69%,32.31%,42.99%
+State,Asian,7th Grade,English Language Arts,61.0,6214.0,1473.0,2049.0,2692.0,23.70%,32.97%,43.32%
+State,Asian,8th Grade,Math,58.0,6346.0,1599.0,2145.0,2602.0,25.20%,33.80%,41.00%
+State,Asian,8th Grade,English Language Arts,59.0,6355.0,1564.0,2104.0,2687.0,24.61%,33.11%,42.28%
+State,Asian,All Grades,Math,60.0,31732.0,7561.0,10446.0,13725.0,23.83%,32.92%,43.25%
+State,Asian,All Grades,English Language Arts,59.0,31734.0,7688.0,10590.0,13456.0,24.23%,33.37%,42.40%
+State,Black/ African American,4th Grade,Math,45.0,3150.0,1160.0,1092.0,898.0,36.83%,34.67%,28.51%
+State,Black/ African American,4th Grade,English Language Arts,46.0,3179.0,1177.0,1076.0,926.0,37.02%,33.85%,29.13%
+State,Black/ African American,5th Grade,Math,46.0,3043.0,1098.0,1061.0,884.0,36.08%,34.87%,29.05%
+State,Black/ African American,5th Grade,English Language Arts,48.0,3050.0,1070.0,1026.0,954.0,35.08%,33.64%,31.28%
+State,Black/ African American,6th Grade,Math,43.0,3207.0,1270.0,1033.0,904.0,39.60%,32.21%,28.19%
+State,Black/ African American,6th Grade,English Language Arts,43.0,3234.0,1243.0,1081.0,910.0,38.44%,33.43%,28.14%
+State,Black/ African American,7th Grade,Math,45.0,2896.0,1069.0,979.0,848.0,36.91%,33.81%,29.28%
+State,Black/ African American,7th Grade,English Language Arts,45.0,2922.0,1075.0,1004.0,843.0,36.79%,34.36%,28.85%
+State,Black/ African American,8th Grade,Math,44.0,3063.0,1171.0,1009.0,883.0,38.23%,32.94%,28.83%
+State,Black/ African American,8th Grade,English Language Arts,46.0,3097.0,1120.0,992.0,985.0,36.16%,32.03%,31.80%
+State,Black/ African American,All Grades,Math,45.0,15359.0,5768.0,5174.0,4417.0,37.55%,33.69%,28.76%
+State,Black/ African American,All Grades,English Language Arts,46.0,15482.0,5685.0,5179.0,4618.0,36.72%,33.45%,29.83%
+State,Hispanic/ Latino of any race(s),4th Grade,Math,45.0,17987.0,6613.0,6166.0,5208.0,36.77%,34.28%,28.95%
+State,Hispanic/ Latino of any race(s),4th Grade,English Language Arts,45.0,18020.0,6669.0,6230.0,5121.0,37.01%,34.57%,28.42%
+State,Hispanic/ Latino of any race(s),5th Grade,Math,46.0,18147.0,6505.0,6155.0,5487.0,35.85%,33.92%,30.24%
+State,Hispanic/ Latino of any race(s),5th Grade,English Language Arts,44.0,18176.0,6742.0,6305.0,5129.0,37.09%,34.69%,28.22%
+State,Hispanic/ Latino of any race(s),6th Grade,Math,45.0,18423.0,6843.0,6239.0,5341.0,37.14%,33.87%,28.99%
+State,Hispanic/ Latino of any race(s),6th Grade,English Language Arts,45.0,18439.0,6691.0,6390.0,5358.0,36.29%,34.65%,29.06%
+State,Hispanic/ Latino of any race(s),7th Grade,Math,45.0,18291.0,6827.0,6201.0,5263.0,37.32%,33.90%,28.77%
+State,Hispanic/ Latino of any race(s),7th Grade,English Language Arts,45.0,18384.0,6837.0,6256.0,5291.0,37.19%,34.03%,28.78%
+State,Hispanic/ Latino of any race(s),8th Grade,Math,45.0,18870.0,6860.0,6576.0,5434.0,36.35%,34.85%,28.80%
+State,Hispanic/ Latino of any race(s),8th Grade,English Language Arts,44.0,19037.0,7109.0,6538.0,5390.0,37.34%,34.34%,28.31%
+State,Hispanic/ Latino of any race(s),All Grades,Math,45.0,91718.0,33648.0,31337.0,26733.0,36.69%,34.17%,29.15%
+State,Hispanic/ Latino of any race(s),All Grades,English Language Arts,45.0,92056.0,34048.0,31719.0,26289.0,36.99%,34.46%,28.56%
+State,Native Hawaiian/ Other Pacific Islander,4th Grade,Math,45.0,943.0,336.0,332.0,275.0,35.63%,35.21%,29.16%
+State,Native Hawaiian/ Other Pacific Islander,4th Grade,English Language Arts,41.0,955.0,385.0,323.0,247.0,40.31%,33.82%,25.86%
+State,Native Hawaiian/ Other Pacific Islander,5th Grade,Math,49.0,961.0,302.0,358.0,301.0,31.43%,37.25%,31.32%
+State,Native Hawaiian/ Other Pacific Islander,5th Grade,English Language Arts,47.5,962.0,328.0,339.0,295.0,34.10%,35.24%,30.67%
+State,Native Hawaiian/ Other Pacific Islander,6th Grade,Math,37.0,909.0,397.0,302.0,210.0,43.67%,33.22%,23.10%
+State,Native Hawaiian/ Other Pacific Islander,6th Grade,English Language Arts,40.0,911.0,384.0,302.0,225.0,42.15%,33.15%,24.70%
+State,Native Hawaiian/ Other Pacific Islander,7th Grade,Math,41.0,877.0,361.0,317.0,199.0,41.16%,36.15%,22.69%
+State,Native Hawaiian/ Other Pacific Islander,7th Grade,English Language Arts,42.0,876.0,352.0,293.0,231.0,40.18%,33.45%,26.37%
+State,Native Hawaiian/ Other Pacific Islander,8th Grade,Math,40.0,886.0,365.0,290.0,231.0,41.20%,32.73%,26.07%
+State,Native Hawaiian/ Other Pacific Islander,8th Grade,English Language Arts,44.0,899.0,344.0,312.0,243.0,38.26%,34.71%,27.03%
+State,Native Hawaiian/ Other Pacific Islander,All Grades,Math,42.0,4576.0,1761.0,1599.0,1216.0,38.48%,34.94%,26.57%
+State,Native Hawaiian/ Other Pacific Islander,All Grades,English Language Arts,43.0,4603.0,1793.0,1569.0,1241.0,38.95%,34.09%,26.96%
+State,Two or More Races,4th Grade,Math,51.0,6799.0,2145.0,2340.0,2314.0,31.55%,34.42%,34.03%
+State,Two or More Races,4th Grade,English Language Arts,51.0,6823.0,2140.0,2293.0,2390.0,31.36%,33.61%,35.03%
+State,Two or More Races,5th Grade,Math,50.0,6863.0,2192.0,2397.0,2274.0,31.94%,34.93%,33.13%
+State,Two or More Races,5th Grade,English Language Arts,52.0,6887.0,2203.0,2281.0,2403.0,31.99%,33.12%,34.89%
+State,Two or More Races,6th Grade,Math,50.0,6492.0,2123.0,2217.0,2152.0,32.70%,34.15%,33.15%
+State,Two or More Races,6th Grade,English Language Arts,50.0,6550.0,2158.0,2193.0,2199.0,32.95%,33.48%,33.57%
+State,Two or More Races,7th Grade,Math,51.0,6382.0,1984.0,2219.0,2179.0,31.09%,34.77%,34.14%
+State,Two or More Races,7th Grade,English Language Arts,51.0,6428.0,2082.0,2153.0,2193.0,32.39%,33.49%,34.12%
+State,Two or More Races,8th Grade,Math,50.0,6421.0,2068.0,2215.0,2138.0,32.21%,34.50%,33.30%
+State,Two or More Races,8th Grade,English Language Arts,51.0,6498.0,2074.0,2221.0,2203.0,31.92%,34.18%,33.90%
+State,Two or More Races,All Grades,Math,51.0,32957.0,10512.0,11388.0,11057.0,31.90%,34.55%,33.55%
+State,Two or More Races,All Grades,English Language Arts,51.0,33186.0,10657.0,11141.0,11388.0,32.11%,33.57%,34.32%
+State,White,4th Grade,Math,51.0,35209.0,11118.0,11962.0,12129.0,31.58%,33.97%,34.45%
+State,White,4th Grade,English Language Arts,52.0,35267.0,10939.0,11936.0,12392.0,31.02%,33.84%,35.14%
+State,White,5th Grade,Math,51.0,34722.0,11088.0,11795.0,11839.0,31.93%,33.97%,34.10%
+State,White,5th Grade,English Language Arts,51.0,34780.0,10853.0,11791.0,12136.0,31.20%,33.90%,34.89%
+State,White,6th Grade,Math,52.0,34504.0,10550.0,11907.0,12047.0,30.58%,34.51%,34.91%
+State,White,6th Grade,English Language Arts,52.0,34619.0,10722.0,11751.0,12146.0,30.97%,33.94%,35.08%
+State,White,7th Grade,Math,52.0,34581.0,10658.0,11817.0,12106.0,30.82%,34.17%,35.01%
+State,White,7th Grade,English Language Arts,52.0,34774.0,10730.0,11893.0,12151.0,30.86%,34.20%,34.94%
+State,White,8th Grade,Math,52.0,34972.0,10803.0,11753.0,12416.0,30.89%,33.61%,35.50%
+State,White,8th Grade,English Language Arts,52.0,35211.0,10864.0,11989.0,12358.0,30.85%,34.05%,35.10%
+State,White,All Grades,Math,51.0,173988.0,54217.0,59234.0,60537.0,31.16%,34.04%,34.79%
+State,White,All Grades,English Language Arts,52.0,174651.0,54108.0,59360.0,61183.0,30.98%,33.99%,35.03%
+State,Non Section 504,4th Grade,Math,50.0,68310.0,22297.0,23195.0,22818.0,32.64%,33.96%,33.40%
+State,Non Section 504,4th Grade,English Language Arts,50.0,68446.0,22289.0,23280.0,22877.0,32.56%,34.01%,33.42%
+State,Non Section 504,5th Grade,Math,50.0,67136.0,21791.0,22849.0,22496.0,32.46%,34.03%,33.51%
+State,Non Section 504,5th Grade,English Language Arts,50.0,67249.0,21878.0,22878.0,22493.0,32.53%,34.02%,33.45%
+State,Non Section 504,6th Grade,Math,50.0,66479.0,21640.0,22621.0,22218.0,32.55%,34.03%,33.42%
+State,Non Section 504,6th Grade,English Language Arts,50.0,66680.0,21616.0,22682.0,22382.0,32.42%,34.02%,33.57%
+State,Non Section 504,7th Grade,Math,50.0,65649.0,21393.0,22351.0,21905.0,32.59%,34.05%,33.37%
+State,Non Section 504,7th Grade,English Language Arts,50.0,65981.0,21441.0,22458.0,22082.0,32.50%,34.04%,33.47%
+State,Non Section 504,8th Grade,Math,50.0,66789.0,21688.0,22753.0,22348.0,32.47%,34.07%,33.46%
+State,Non Section 504,8th Grade,English Language Arts,50.0,67259.0,21864.0,22945.0,22450.0,32.51%,34.11%,33.38%
+State,Non Section 504,All Grades,Math,50.0,334363.0,108809.0,113769.0,111785.0,32.54%,34.03%,33.43%
+State,Non Section 504,All Grades,English Language Arts,50.0,335615.0,109088.0,114243.0,112284.0,32.50%,34.04%,33.46%
+State,Section 504,4th Grade,Math,53.0,3202.0,947.0,1112.0,1143.0,29.58%,34.73%,35.70%
+State,Section 504,4th Grade,English Language Arts,52.0,3213.0,1009.0,1078.0,1126.0,31.40%,33.55%,35.05%
+State,Section 504,5th Grade,Math,50.0,3838.0,1267.0,1287.0,1284.0,33.01%,33.53%,33.45%
+State,Section 504,5th Grade,English Language Arts,51.0,3851.0,1229.0,1287.0,1335.0,31.91%,33.42%,34.67%
+State,Section 504,6th Grade,Math,51.0,4154.0,1314.0,1407.0,1433.0,31.63%,33.87%,34.50%
+State,Section 504,6th Grade,English Language Arts,49.0,4174.0,1404.0,1406.0,1364.0,33.64%,33.68%,32.68%
+State,Section 504,7th Grade,Math,53.0,4387.0,1364.0,1464.0,1559.0,31.09%,33.37%,35.54%
+State,Section 504,7th Grade,English Language Arts,51.0,4413.0,1434.0,1471.0,1508.0,32.49%,33.33%,34.17%
+State,Section 504,8th Grade,Math,50.0,4598.0,1509.0,1527.0,1562.0,32.82%,33.21%,33.97%
+State,Section 504,8th Grade,English Language Arts,51.0,4662.0,1525.0,1508.0,1629.0,32.71%,32.35%,34.94%
+State,Section 504,All Grades,Math,51.0,20179.0,6401.0,6797.0,6981.0,31.72%,33.68%,34.60%
+State,Section 504,All Grades,English Language Arts,51.0,20313.0,6601.0,6750.0,6962.0,32.50%,33.23%,34.27%
+State,Students with Disabilities,4th Grade,Math,42.0,10970.0,4379.0,3561.0,3030.0,39.92%,32.46%,27.62%
+State,Students with Disabilities,4th Grade,English Language Arts,40.0,11032.0,4687.0,3494.0,2851.0,42.49%,31.67%,25.84%
+State,Students with Disabilities,5th Grade,Math,42.0,10194.0,4141.0,3361.0,2692.0,40.62%,32.97%,26.41%
+State,Students with Disabilities,5th Grade,English Language Arts,39.0,10257.0,4426.0,3348.0,2483.0,43.15%,32.64%,24.21%
+State,Students with Disabilities,6th Grade,Math,38.0,9441.0,4146.0,3064.0,2231.0,43.91%,32.45%,23.63%
+State,Students with Disabilities,6th Grade,English Language Arts,37.0,9524.0,4285.0,3096.0,2143.0,44.99%,32.51%,22.50%
+State,Students with Disabilities,7th Grade,Math,41.0,8679.0,3523.0,2869.0,2287.0,40.59%,33.06%,26.35%
+State,Students with Disabilities,7th Grade,English Language Arts,38.0,8794.0,3804.0,2945.0,2045.0,43.26%,33.49%,23.25%
+State,Students with Disabilities,8th Grade,Math,40.0,8561.0,3566.0,2907.0,2088.0,41.65%,33.96%,24.39%
+State,Students with Disabilities,8th Grade,English Language Arts,40.0,8688.0,3637.0,2928.0,2123.0,41.86%,33.70%,24.44%
+State,Students with Disabilities,All Grades,Math,41.0,47845.0,19755.0,15762.0,12328.0,41.29%,32.94%,25.77%
+State,Students with Disabilities,All Grades,English Language Arts,39.0,48295.0,20839.0,15811.0,11645.0,43.15%,32.74%,24.11%
+State,Students without Disabilities,4th Grade,Math,51.0,60542.0,18865.0,20746.0,20931.0,31.16%,34.27%,34.57%
+State,Students without Disabilities,4th Grade,English Language Arts,52.0,60627.0,18611.0,20864.0,21152.0,30.70%,34.41%,34.89%
+State,Students without Disabilities,5th Grade,Math,51.0,60780.0,18917.0,20775.0,21088.0,31.12%,34.18%,34.70%
+State,Students without Disabilities,5th Grade,English Language Arts,52.0,60843.0,18681.0,20817.0,21345.0,30.70%,34.21%,35.08%
+State,Students without Disabilities,6th Grade,Math,52.0,61192.0,18808.0,20964.0,21420.0,30.74%,34.26%,35.00%
+State,Students without Disabilities,6th Grade,English Language Arts,52.0,61330.0,18735.0,20992.0,21603.0,30.55%,34.23%,35.22%
+State,Students without Disabilities,7th Grade,Math,51.0,61357.0,19234.0,20946.0,21177.0,31.35%,34.14%,34.51%
+State,Students without Disabilities,7th Grade,English Language Arts,52.0,61600.0,19071.0,20984.0,21545.0,30.96%,34.06%,34.98%
+State,Students without Disabilities,8th Grade,Math,51.0,62826.0,19631.0,21373.0,21822.0,31.25%,34.02%,34.73%
+State,Students without Disabilities,8th Grade,English Language Arts,51.0,63233.0,19752.0,21525.0,21956.0,31.24%,34.04%,34.72%
+State,Students without Disabilities,All Grades,Math,51.0,306697.0,95455.0,104804.0,106438.0,31.12%,34.17%,34.70%
+State,Students without Disabilities,All Grades,English Language Arts,52.0,307633.0,94850.0,105182.0,107601.0,30.83%,34.19%,34.98%
